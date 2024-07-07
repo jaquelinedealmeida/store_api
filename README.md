@@ -1,5 +1,7 @@
 # TDD Project
 
+Projeto de estudo sobre TDD do Bootcamp Python para backend da DIO
+
 ## O que é TDD?
 TDD é uma sigla para `Test Driven Development`, ou Desenvolvimento Orientado a Testes. A ideia do TDD é que você trabalhe em ciclos.
 
